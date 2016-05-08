@@ -5,6 +5,4 @@ test line2
 test line3.
 Git is a distributed version control system.
 Git is free software.
-aaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbb
-ccccccccccccccc
+git tracks changes of files.
